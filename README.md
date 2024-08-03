@@ -14,9 +14,9 @@
 - Security Automation with Python and Shell Scripting
 - 
 ## 💬 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hilmi-ouelhazi/))
-- **Twitter**: [@YourTwitterHandle]([https://twitter.com/yourhandle](https://x.com/hilmi_walhazi))
-- **Blog**: [Your Cybersecurity Blog](https://yourblog.com)
+- **LinkedIn**: https://www.linkedin.com/in/hilmi-ouelhazi/
+- **Twitter**: https://x.com/hilmi_walhazi
+- **Blog**: 
   
 # 📊 Stats
 
