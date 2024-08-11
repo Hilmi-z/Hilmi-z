@@ -24,3 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilmi-z&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/xDU0.png" width="300" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/hilmiouelhazi.png" alt="TryHackMe">
