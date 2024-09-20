@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @Hilmi-Ouelhazi
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hilmi-z&label=Profile%20views&color=0e75b6&style=flat" alt="Hilmi-z" /> </p>
 
 ## 👀 Interests
 - Cybersecurity
