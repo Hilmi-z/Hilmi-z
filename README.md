@@ -17,7 +17,7 @@
 ## 💬 Let's Connect
 - **LinkedIn**: https://www.linkedin.com/in/hilmi-ouelhazi/
 - **Twitter**: https://x.com/hilmi_walhazi
-- **Blog**: https://hilmi-z.github.io/
+- **Blog**: https://hilmiouelhazi.blog/
   
 # 📊 Stats
 
