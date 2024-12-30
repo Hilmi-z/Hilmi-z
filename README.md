@@ -13,12 +13,7 @@
 - Incident Response Playbooks
 - Forensic Analysis
 - Security Automation with Python and Shell Scripting
-  
-## 💬 Let's Connect
-- **LinkedIn**: https://www.linkedin.com/in/hilmi-ouelhazi/
-- **Twitter**: https://x.com/hilmi_walhazi
-- **Blog**: https://hilmiouelhazi.blog/
-  
+
 # 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilmi-z&show_icons=true&theme=github_dark)
